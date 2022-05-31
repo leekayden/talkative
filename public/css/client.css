@@ -38,7 +38,8 @@
 :root {
     /* common */
     --status-menu-bg: linear-gradient(#363434, #000000);
-    --body-bg: radial-gradient(#393939, #000000);
+    /* --body-bg: radial-gradient(#393939, #000000); */
+    --body-bg: #3c3d39;
     --border: 1px solid rgb(255 255 255 / 32%);
 
     --msger-top: 50%;
