@@ -5463,15 +5463,13 @@ function showAbout() {
     Swal.fire({
         background: swalBackground,
         position: 'center',
-        title: '<strong>WebRTC P2P</strong>',
+        title: '<strong>WebRTC Peer2Peer</strong>',
         imageAlt: 'Talkative-about',
         imageUrl: aboutImg,
         html: `
         <br/>
         <div id="about">
-            <b><a href="https://github.com/miroslavpejic85/Talkative" target="_blank">Open Source</a></b> project
-            <br/><br/>
-            <button class="pulsate" onclick="window.open('https://github.com/sponsors/miroslavpejic85?o=esb')"><i class="fas fa-heart" ></i> Sponsor</button>
+            <button class="pulsate" onclick="window.open('/about')">View about</button>
             <br /><br />
             Author:<a href="https://www.linkedin.com/in/miroslav-pejic-976a07101/" target="_blank"> Kayden Lee</a>
         </div>
