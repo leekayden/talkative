@@ -5471,7 +5471,7 @@ function showAbout() {
         <div id="about">
             <button class="pulsate" onclick="window.open('/about')">View about</button>
             <br /><br />
-            Author:<a href="https://www.linkedin.com/in/miroslav-pejic-976a07101/" target="_blank"> Kayden Lee</a>
+            Author:<a href="https://www.linkedin.com/in/kaydenlee-" target="_blank"> Kayden Lee</a>
         </div>
         `,
         showClass: {

@@ -1,8 +1,8 @@
 {
     "proxy": "http://localhost:8080",
-    "name": "Talkative",
+    "name": "talkative",
     "version": "1.0.0",
-    "description": "A free WebRTC browser-based video call",
+    "description": "A free WebRTC web-based video call",
     "main": "server.js",
     "scripts": {
         "start": "node app/src/server.js",
@@ -11,11 +11,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/miroslavpejic85/Talkative"
+        "url": "git+https://github.com/leekayden/talkative"
     },
     "author": "Kayden Lee",
     "license": "AGPL-3.0",
-    "homepage": "https://github.com/miroslavpejic85/Talkative",
+    "homepage": "https://github.com/leekayden/talkative",
     "dependencies": {
         "compression": "^1.7.4",
         "cors": "^2.8.5",

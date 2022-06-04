@@ -23,11 +23,7 @@ dependencies: {
 /**
  * Talkative P2P - Server component
  *
- * @link    GitHub: https://github.com/miroslavpejic85/Talkative
- * @link    Live demo: https://Talkative.up.railway.app or https://Talkative.herokuapp.com
- * @license For open source use: AGPLv3
- * @license For commercial or closed source, contact us at info.Talkative@gmail.com
- * @author  Kayden Lee - miroslav.pejic.85@gmail.com
+ * @author  Kayden Lee
  * @version 1.0.0
  *
  */
